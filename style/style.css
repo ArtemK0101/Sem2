@@ -1,72 +1,18 @@
-header{
-   background-color: whitesmoke;
-   
-   position: fixed;
-   height: 120px;
-   margin: 0px;
-   padding: 0px;
-   
-}
 
-.S{
-    display: flex;
+
+
+.GG{
+    width: 100%;
+    display:contents;
     justify-content: space-around;
-    align-items: center;
-    font-size: 110%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-bottom: 2pt;
- 
-}
-.S0{
-    background-color: blue;
-    color: azure;
-    border-radius: 20pt;
-    width: 400px;
-    margin-right:100pt ;
-    
-}
-.S2:hover{
-    color: aqua;
-    background-color: black;
-    border-radius: 20pt;
-    
-}
-.S1{
-    color: white;
-    margin: 0cm 0pt ;
-    text-decoration: none;
-    width: 500px;
-    
-    
-}
-.S2{
-    color: black;
-    font-weight: bold;
-    text-decoration: none;
-    font-size:110%;
-    width: 200px;
-    
-}
-
-
-
-
-
-
-.shrift
-{font-family: Georgia, 'Times New Roman', Times, serif;
-    text-decoration: underline;
-    height: 50px;
-    width: 500px;
-    margin: 0cm 13cm;
-
-
+    align-items:initial
 }
 .shrift1{
     width: 200px;
     height: 340px;
     font-size: 240%;
     background-color: white;
+    margin-left: 100px;
     
     
 
@@ -75,15 +21,16 @@ header{
     
 .main{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 0cm 2cm;
+    margin-left: 100px;
     font-size: larger;
+    margin-top: 25px;
 }
 .mo{
     display: flex;
 }
 .m1{
     font-size: 150%;
-    margin: 0cm 1cm;
+    margin-left: 100px;
     width: 100;
  
 }
@@ -94,32 +41,41 @@ header{
 }
 .Privet{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 0cm 1cm;
+    margin-left: 100px;
+    margin-top: 1cm;
     font-size: larger;
 }
 .Privet1{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 0cm 1cm;
+    margin: 0cm 100px;
     font-size: larger;
     width: 700px;
 }
 .Final{
-    margin: 0cm 1cm;
+    margin-left: 100px;
+    margin-top: 25px;
 }
 .rb1{
+    
     display: flex;
-    justify-content: space-around;
+    
+    
   
 }
 .rb2{
-    margin: 1cm 150pt
+    margin-top: 25px;
 }
 .rb3{
-    margin: 1cm 150pt
+    margin-top: 25px;
+    
 }
 .tab1{
     border: 2pt solid rgb(16, 156, 243);  
     border-radius: 20pt;
+}
+.t2{
+    margin-left: 450px;
+
 }
 .tab2{
     border: 2pt solid rgb(16, 156, 243);  
@@ -134,12 +90,16 @@ header{
     border: 2pt solid rgb(16, 156, 243);  
     border-radius: 20pt;
     width: 733pt;
-    height: 10pt;
+    height: 40pt;
 }
 .tb{
     background-color: rgb(16, 156, 243);
     color: white;
     border: 2pt solid rgb(16, 156, 243);
     border-radius: 20pt;
-    margin: 0cm 150pt
+    margin-top: 20px;
+    width: 300px;
+    height:50px;
+    font-size: larger;
 }
+
